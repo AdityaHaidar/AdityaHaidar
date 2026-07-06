@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=220&section=header&text=Your%20Name&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=220&section=header&text=Aditya%20Haidar&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1B2E" />
 <img src="https://img.shields.io/badge/B.Tech%20CSE-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1B2E" />
-<img src="https://img.shields.io/badge/Location-Bengaluru,%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF&labelColor=1E1B2E" />
+<img src="https://img.shields.io/badge/Location-Semarang,%20Indonesia-4338CA?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF&labelColor=1E1B2E" />
 
 <br/><br/>
 
@@ -141,7 +141,7 @@ A production-grade Retrieval-Augmented Generation platform that serves low-laten
 | **Performance** | Async batching + caching layer reduced token cost by 42% |
 | **Security** | OAuth2, rate limiting, PII redaction pipeline before model ingestion |
 | **Impact** | Powers search and support automation for 3 internal enterprise products |
-| **Repository** | [github.com/yourusername/neuralflow](https://github.com/yourusername/neuralflow) |
+| **Repository** | [github.com/AdityaHaidar/neuralflow](https://github.com/AdityaHaidar/neuralflow) |
 
 Designed the retrieval architecture from the ground up, benchmarking chunking strategies, embedding models, and reranking approaches to optimize for both accuracy and cost. Built a custom evaluation harness to continuously score retrieval quality against a golden dataset.
 
@@ -160,7 +160,7 @@ A lightweight, opinionated framework for building event-driven microservices wit
 | **Performance** | Reduced inter-service latency by 35% via gRPC over REST |
 | **Security** | mTLS between services, signed event payloads, RBAC via Kubernetes |
 | **Impact** | Adopted internally as the default backend scaffolding template |
-| **Repository** | [github.com/yourusername/orbit](https://github.com/yourusername/orbit) |
+| **Repository** | [github.com/AdityaHaidar/orbit](https://github.com/AdityaHaidar/orbit) |
 
 Built to solve recurring pain points around service-to-service reliability. Includes a CLI for scaffolding new services with observability and tracing pre-wired via OpenTelemetry.
 
@@ -179,7 +179,7 @@ A real-time analytics dashboard with live data visualization, role-based access,
 | **Performance** | Virtualized rendering handles 100K+ row datasets smoothly |
 | **Security** | JWT-based auth, row-level security, audit logging |
 | **Impact** | Reduced client reporting turnaround time from days to real-time |
-| **Repository** | [github.com/yourusername/pulseboard](https://github.com/yourusername/pulseboard) |
+| **Repository** | [github.com/AdityaHaidar/pulseboard](https://github.com/AdityaHaidar/pulseboard) |
 
 Focused heavily on frontend performance — implemented windowed rendering, optimistic UI updates, and a WebSocket layer with automatic reconnection and backpressure handling.
 
@@ -198,7 +198,7 @@ A lightweight computer vision toolkit optimized for edge deployment on resource-
 | **Performance** | Model quantization cut inference time by 60% with <2% accuracy loss |
 | **Security** | On-device inference — no data leaves the edge node |
 | **Impact** | Used in a pilot deployment for automated quality inspection |
-| **Repository** | [github.com/yourusername/visionlite](https://github.com/yourusername/visionlite) |
+| **Repository** | [github.com/AdityaHaidar/visionlite](https://github.com/AdityaHaidar/visionlite) |
 
 Explored quantization-aware training and ONNX graph optimization to make deep learning inference viable on low-power hardware without a meaningful accuracy tradeoff.
 
@@ -301,16 +301,16 @@ Contributed to an internal data pipeline used for training recommendation models
 
 <div align="center">
 
-<a href="https://leetcode.com/yourusername">
+<a href="https://leetcode.com/AdityaHaidar">
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-1E1B2E?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<a href="https://geeksforgeeks.org/user/yourusername">
+<a href="https://geeksforgeeks.org/user/AdityaHaidar">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-1E1B2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
-<a href="https://hackerrank.com/yourusername">
+<a href="https://hackerrank.com/AdityaHaidar">
   <img src="https://img.shields.io/badge/HackerRank-5%20Star-1E1B2E?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
 </a>
-<a href="https://codechef.com/users/yourusername">
+<a href="https://codechef.com/users/AdityaHaidar">
   <img src="https://img.shields.io/badge/CodeChef-4%20Star-1E1B2E?style=for-the-badge&logo=codechef&logoColor=5B4638" />
 </a>
 
@@ -322,12 +322,12 @@ Contributed to an internal data pipeline used for training recommendation models
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0F0524&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=E9D5FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaHaidar&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaHaidar&theme=radical&hide_border=true&background=0F0524&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=E9D5FF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHaidar&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" width="45%" />
 
 </div>
 
@@ -337,7 +337,7 @@ Contributed to an internal data pipeline used for training recommendation models
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaHaidar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
@@ -347,7 +347,7 @@ Contributed to an internal data pipeline used for training recommendation models
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaHaidar&theme=react-dark&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%" />
 
 </div>
 
@@ -357,7 +357,7 @@ Contributed to an internal data pipeline used for training recommendation models
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AdityaHaidar/AdityaHaidar/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -397,10 +397,10 @@ current_focus:
 <a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/AdityaHaidar">
   <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/AdityaHaidar">
   <img src="https://img.shields.io/badge/GitHub-1E1B2E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://yourportfolio.dev">
